@@ -1,6 +1,10 @@
 team: Togers
 
+<<<<<<< HEAD
 manager: Brenda
+=======
+manager: Deborah
+>>>>>>> to-rebase
 
 coach: Ruth
 
@@ -9,3 +13,4 @@ members:
 - William
 - David
 - George
+- Tyler
